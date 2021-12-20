@@ -1,3 +1,19 @@
+# ReactTicTacToe
+
+### [Live Site](https://tic-tac-toe-reactjs-app.netlify.app/)
+
+![ReactTicTacToe](https://i.ibb.co/qM8wPjN/react-tic-tac-toe.png)
+
+## Introduction
+An application using react that allow user to play tic-tac-toe game.
+
+Number of wins game of each player is stored in the history.
+
+Includes restart and clear game history functionality.
+
+## Stack
+Reactjs, React Hook, useState, CSS, Javascript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
