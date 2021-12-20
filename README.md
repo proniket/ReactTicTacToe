@@ -2,7 +2,7 @@
 
 ### [Live Site](https://tic-tac-toe-reactjs-app.netlify.app/)
 
-![ReactTicTacToe](https://i.ibb.co/qM8wPjN/react-tic-tac-toe.png)
+![ReactTicTacToe](https://i.ibb.co/qM8wPjN/react-tic-tac-toe.pngw | width=100)
 
 ## Introduction
 An application using react that allow user to play tic-tac-toe game.
